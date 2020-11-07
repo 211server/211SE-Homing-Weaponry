@@ -11,7 +11,7 @@
       <DisplayName>M-12 蜂群导弹发射器-fqddfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\M12Swarmer_icon.dds</Icon>
       <Description>M-12 蜂群导弹发射器. 
-      Ammo: 蜂群导弹 Mk1</Description>
+弹药: 蜂群导弹 Mk1</Description>
       <CubeSize>Small</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>

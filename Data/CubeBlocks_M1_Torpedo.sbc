@@ -11,7 +11,7 @@
       <DisplayName>M-1 鱼雷发射器-ylfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\M1Torp_Icon.dds</Icon>
       <Description>M-1 鱼雷发射器. 缓慢但是致命
-      Ammo: 鱼雷 MK1</Description>
+弹药: 鱼雷 MK1</Description>
       <CubeSize>Large</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>
