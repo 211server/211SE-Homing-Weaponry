@@ -8,10 +8,10 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>M8Launcher</SubtypeId>
       </Id>
-      <DisplayName>M-8 Destroyer Launcher</DisplayName>
+      <DisplayName>M-8 毁灭者发射器-hmzfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\M8Launcher_Icon.dds</Icon>
-      <Description>M-8 Destroyer Launcher. Fires high-precision missiles
-       Ammo: Destroyer Missile X</Description>
+      <Description>M-8 毁灭者发射器. 发射高精度导弹
+       Ammo: 毁灭者导弹 X</Description>
       <CubeSize>Large</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>

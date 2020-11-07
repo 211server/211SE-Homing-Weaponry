@@ -8,10 +8,10 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>M12Swarm</SubtypeId>
       </Id>
-      <DisplayName>M-12 Swarmer</DisplayName>
+      <DisplayName>M-12 蜂群导弹发射器-fqddfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\M12Swarmer_icon.dds</Icon>
-      <Description>M-12 Swarmer. 
-      Ammo: Swarm Missile Mk1</Description>
+      <Description>M-12 蜂群导弹发射器. 
+      Ammo: 蜂群导弹 Mk1</Description>
       <CubeSize>Small</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>

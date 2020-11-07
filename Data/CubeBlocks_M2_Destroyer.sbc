@@ -8,10 +8,10 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>M2Destroyer</SubtypeId>
       </Id>
-      <DisplayName>M-2 Destroyer Launcher</DisplayName>
+      <DisplayName>M-2 毁灭者发射器-hmzfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\m2Destroyer_icon.dds</Icon>
-      <Description>M-2 Destroyer Launcher. 
-      Ammo: Destroyer Missile MK1</Description>
+      <Description>M-2 毁灭者发射器. 
+      Ammo: 毁灭者导弹 MK1</Description>
       <CubeSize>Small</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>

@@ -8,10 +8,10 @@
         <TypeId>SmallMissileLauncher</TypeId>
         <SubtypeId>M1Torpedo</SubtypeId>
       </Id>
-      <DisplayName>M-1 Torpedo</DisplayName>
+      <DisplayName>M-1 鱼雷发射器-ylfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\M1Torp_Icon.dds</Icon>
-      <Description>M-1 Torpedo Launcher. Slow but deadly 
-      Ammo: Boomer Torpedo MK1</Description>
+      <Description>M-1 鱼雷发射器. 缓慢但是致命
+      Ammo: 鱼雷 MK1</Description>
       <CubeSize>Large</CubeSize>
       <PlaceDecals>false</PlaceDecals>
       <BlockTopology>TriangleMesh</BlockTopology>
