@@ -11,7 +11,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>SwarmMissile50mm</SubtypeId>
       </Id>
-      <DisplayName>Swarm Missile Mk1</DisplayName>
+      <DisplayName>蜂群导弹 Mk1-fqdd-</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\M12SwarmerProjectile_icon.dds</Icon>
       <Size>
                 <X>0.2</X>
@@ -31,7 +31,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>DestroyerMissileMk1</SubtypeId>
       </Id>
-      <DisplayName>Destroyer Missile Mk1</DisplayName>
+      <DisplayName>毁灭者导弹 Mk1-hmzdd-</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\m2DestroyerProjectile_icon.dds</Icon>
       <Size>
                 <X>0.2</X>
@@ -51,7 +51,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>TorpedoMk1</SubtypeId>
       </Id>
-      <DisplayName>Boomer Torpedo Mk1</DisplayName>
+      <DisplayName>鱼雷 Mk1-yl-</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\M1TorpedoProjectile_Icon.dds</Icon>
       <Size>
                 <X>0.5</X>
@@ -71,7 +71,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>DestroyerMissileX</SubtypeId>
       </Id>
-      <DisplayName>Destroyer Missile X</DisplayName>
+      <DisplayName>毁灭者导弹 X-hmzdd-</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\M8LauncherProjectile_Icon.dds</Icon>
       <Size>
                 <X>0.6</X>
