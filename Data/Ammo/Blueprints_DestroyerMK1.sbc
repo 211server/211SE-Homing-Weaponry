@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DestroyerMissileMk1_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>Destroyer Missile Mk1</DisplayName>
+      <DisplayName>毁灭者导弹 Mk1</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\m2DestroyerProjectile_icon.dds</Icon>
 	  
       <Prerequisites>

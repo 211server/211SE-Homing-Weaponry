@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DestroyerMissileX_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>Destroyer Missile X</DisplayName>
+      <DisplayName>毁灭者导弹 X</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\M8LauncherProjectile_Icon.dds</Icon>
 	  
       <Prerequisites>

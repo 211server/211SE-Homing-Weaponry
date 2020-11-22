@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SwarmMissileMk1_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>12 x SwarmMissile Mk1</DisplayName>
+      <DisplayName>蜂群导弹 Mk1 x12</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\M12SwarmerProjectile_icon.dds</Icon>
 	  
       <Prerequisites>
